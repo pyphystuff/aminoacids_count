@@ -1,4 +1,3 @@
-# aminoacids_count
 # Amino Acid Frequency Analysis from PDB Files
 
 This Python script allows you to fetch a PDB file from the RCSB database using the PDB ID, extract the amino acid sequence for **Chain A**, and analyze the frequency of amino acids. The analysis includes displaying a frequency table, an ASCII histogram, and a graphical histogram using `matplotlib`.
